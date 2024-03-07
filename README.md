@@ -11,4 +11,4 @@ The project is part of Stutern's Requirement
 
 ## Live Demo
 
-Check out the live demo of the project here: [FaithAdewuyi](http://your-live-demo-url.com)
+Check out the live demo of the project here: [FaithAdewuyi](https://stutern-assessment.vercel.app)
